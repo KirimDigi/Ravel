@@ -539,7 +539,7 @@
 
                             <div class="editable mb-3" style="font-size:14.4px;">McDonald's S'house Pondok Indah<br>Jl.
                               Metro Pondok Indah Plaza I, Blok UA Kav. 33-34, Pondok Indah, Jakarta Selatan</div>
-                            <a href="https://share.google/GwOELfpjlon617J0g"
+                            <a href="https://maps.app.goo.gl/dHFrrkn6xYFGbqEo9"
                               class="btn-maps-link btn btn-primary rounded-pill animate__animated animate__fadeInUp animate__slow"
                               target="_blank" style="font-size:14px;" rel="noreferrer noopener">Petunjuk Ke Lokasi</a>
                           </div>
@@ -1241,9 +1241,23 @@
       renderWishes(getLocalWishes());
     };
 
-    // Form submission handling
-    document.addEventListener("DOMContentLoaded", () => {
-      loadWishes();
+     // Form submission handling
+     document.addEventListener("DOMContentLoaded", () => {
+       loadWishes();
+
+       // Stop propagation of touch/mouse events on scrollable containers
+       // to prevent swiping/changing slides when scrolling content.
+       const scrollableContainers = ['#wishesList', '.gallery-grid'];
+       scrollableContainers.forEach(selector => {
+         const el = document.querySelector(selector);
+         if (el) {
+           ['touchstart', 'touchmove', 'touchend', 'mousedown', 'mousemove', 'mouseup'].forEach(eventType => {
+             el.addEventListener(eventType, (e) => {
+               e.stopPropagation();
+             }, { passive: true });
+           });
+         }
+       });
 
       const rsvpForm = document.getElementById('rsvpForm');
       if (rsvpForm) {
