@@ -1245,18 +1245,18 @@
     document.addEventListener("DOMContentLoaded", () => {
       loadWishes();
 
-      // Stop propagation of touch/mouse events on scrollable containers
+      // Stop propagation of touch/mouse events on scrollable containers and their descendants
       // to prevent swiping/changing slides when scrolling content.
-      const scrollableContainers = ['#wishesList', '.gallery-grid'];
-      scrollableContainers.forEach(selector => {
-        const el = document.querySelector(selector);
-        if (el) {
+      const scrollableSelectors = ['#wishesList', '#wishesList *', '.gallery-grid', '.gallery-grid *'];
+      scrollableSelectors.forEach(selector => {
+        const elements = document.querySelectorAll(selector);
+        elements.forEach(el => {
           ['touchstart', 'touchmove', 'touchend', 'mousedown', 'mousemove', 'mouseup'].forEach(eventType => {
             el.addEventListener(eventType, (e) => {
               e.stopPropagation();
             }, { passive: true });
           });
-        }
+        });
       });
 
       const rsvpForm = document.getElementById('rsvpForm');
