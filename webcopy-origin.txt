@@ -1,0 +1,140 @@
+Uri: https://amfdigitalstudio-story.com/fonts/brittany_signature/BrittanySignature.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\brittany_signature\BrittanySignature.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/heatwood/Heatwood.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\heatwood\Heatwood.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/photograph_signature/fonts.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\photograph_signature\fonts.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/images/btn_app_store.png
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\btn_app_store.png
+Content Type: image/png
+
+Uri: https://amfdigitalstudio-story.com/images/btn_play_store.png
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\btn_play_store.png
+Content Type: image/png
+
+Uri: https://amfdigitalstudio-story.com/images/no-image.jpg
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\no-image.jpg
+Content Type: image/jpeg
+
+Uri: https://amfdigitalstudio-story.com/plugins/animate.css@4.1.1/animate.min.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\plugins\animate.css@4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/preview/lion-birthday
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\preview\lion-birthday.html
+Content Type: text/html
+
+Uri: https://amfdigitalstudio-story.com/themes/lion-birthday/bg.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\lion-birthday\bg.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/lion-birthday/bl.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\lion-birthday\bl.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/lion-birthday/bm-1.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\lion-birthday\bm-1.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/lion-birthday/bm-2.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\lion-birthday\bm-2.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/lion-birthday/br.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\lion-birthday\br.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/lion-birthday/center.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\lion-birthday\center.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/lion-birthday/left.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\lion-birthday\left.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/lion-birthday/right.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\lion-birthday\right.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/lion-birthday/tl.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\lion-birthday\tl.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/lion-birthday/tm.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\lion-birthday\tm.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/lion-birthday/tr.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\lion-birthday\tr.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/theme-app.js?v=160426
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\theme-app.js
+Content Type: application/javascript
+
+Uri: https://amfdigitalstudio-story.com/themes/themesv2.js?v=160426
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\themesv2.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Gochi+Hand&family=Tilt+Neon&display=swap
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/fredoka/v17/X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3O8SLMFg.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\fredoka\v17\X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3O8SLMFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fredoka/v17/X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3OFiXMFg.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\fredoka\v17\X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3OFiXMFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fredoka/v17/X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3OLyXMFg.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\fredoka\v17\X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3OLyXMFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fredoka/v17/X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3OryLMFg.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\fredoka\v17\X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3OryLMFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/fredoka/v17/X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3OwyLMFg.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\fredoka\v17\X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3OwyLMFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/gochihand/v25/hES06XlsOjtJsgCkx1PkTo4.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\gochihand\v25\hES06XlsOjtJsgCkx1PkTo4.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/tiltneon/v12/E21L_d7gguXdwD9LEFY2WCeElCNtd-eBqpHp1TzrkJSmwpj5ndxquXK9.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\tiltneon\v12\E21L_d7gguXdwD9LEFY2WCeElCNtd-eBqpHp1TzrkJSmwpj5ndxquXK9.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\beacon.min.js\v833ccba57c9e4d2798f2e76cebdd09a11778172276447
+Content Type: text/javascript
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.svg
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.woff
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.woff2
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.woff2
+Content Type: font/woff2
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/style.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\style.css
+Content Type: text/css
+
